@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(71, 66, 66);
+}
+div {
+
+    h1 {
+        font-size: 25px;
+        text-align: center;
+        color: rgb(0, 0, 0);
+        font-family: cheque;
+    
+    }
+}
+
+
+.rounded ul{
+      list-style-type: none;
+      background-color: rgb(2, 2, 46);
+      padding:0px;
+      margin:0px;
+      overflow: hidden;
+}
+.rounded a {
+    color:white;
+    text-decoration: none;
+    padding:15px;
+    display:block;
+    text-align: center;
+}
+.rounded a:hover{
+    background-color: black;
+}
+.rounded li{
+    float:left;
+}
+h2{
+    font-family: cheque;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.img{
+  background-color: rgb(2, 2, 46);
+  padding: 15px;
+}
+.img img{
+  background-color:rgb(2, 2, 46) ;
+  padding: 10px;
+  display: inline-block;
+}
+.members{
+background-color: rgb(2, 2, 46);
+}
+
+  
